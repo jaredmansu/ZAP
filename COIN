@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZAPCOIN ⚡ The Future of Fun Crypto</title>
+    <style>
+        body {
+            font-family: 'Press Start 2P', cursive;
+            background: linear-gradient(135deg, #1a1a1a, #3a3a3a);
+            color: #fff;
+            text-align: center;
+            padding: 0;
+            margin: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 15px;
+            box-shadow: 0 0 20px rgba(255, 255, 0, 0.5);
+        }
+        h1 {
+            font-size: 3.5rem;
+            color: #ffcc00;
+            text-shadow: 0 0 10px rgba(255, 255, 0, 0.8);
+        }
+        p {
+            font-size: 1.2rem;
+            margin-bottom: 20px;
+        }
+        .zap-button {
+            background: #ffcc00;
+            color: #1a1a1a;
+            padding: 15px 30px;
+            font-size: 1.5rem;
+            font-weight: bold;
+            border: none;
+            cursor: pointer;
+            border-radius: 10px;
+            transition: 0.3s;
+            box-shadow: 0 0 15px rgba(255, 204, 0, 0.7);
+        }
+        .zap-button:hover {
+            background: #ffaa00;
+            transform: scale(1.1);
+            box-shadow: 0 0 25px rgba(255, 170, 0, 1);
+        }
+        .footer {
+            margin-top: 50px;
+            font-size: 1rem;
+            font-weight: bold;
+            color: #ffcc00;
+            text-shadow: 0 0 5px rgba(255, 255, 0, 0.7);
+        }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1>ZAPCOIN ⚡</h1>
+        <p>The electrifying crypto that keeps the blockchain buzzing! Fast, fun, and powered by the community.</p>
+        <button class="zap-button">Get Zapped Now!</button>
+        <div class="footer">⚡ Join the movement • Decentralized & Unstoppable ⚡</div>
+    </div>
+</body>
+</html>
